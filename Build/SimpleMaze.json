@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SimpleMaze.data.unityweb",
+"asmCodeUrl": "SimpleMaze.asm.code.unityweb",
+"asmMemoryUrl": "SimpleMaze.asm.memory.unityweb",
+"asmFrameworkUrl": "SimpleMaze.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
