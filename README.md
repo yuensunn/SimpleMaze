@@ -1,4 +1,4 @@
-![logo](https://i.imgur.com/FXZjdgLm.png)
+![logo](https://i.imgur.com/FXZjdgLl.png)
 # SimpleMaze
 Simple maze randomed with DFS. 
 2D sprite animated with Spriter.
